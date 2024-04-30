@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    font-family: arial;
+}
+.navbar{
+    height: 70px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.logo{
+    height: 60px;
+
+}
+.nav-box2{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    font-size: 0.9rem;
+    color: grey;
+    border-radius: 4px;
+    background-color: aliceblue;
+    width: 45%;
+    margin-bottom: 5px;
+
+}
+.nav-box2 i{
+    margin-right: 10px;
+    font-size: 1rem;
+}
+.nav-box3{
+    height: 40px;
+    font-size: 0.9rem; 
+    font-weight: 400;   
+}
+.nav-box3 i{
+    margin-right: 4px;
+}
+.nav-box4{
+    height: 40px;
+    font-size: 1rem;
+
+}
+.nav-box4 i{
+    margin-right: 4px;
+}
+.nav-box5{
+    height: 40px;
+
+}
+.nav-box5 i{
+    margin-right: 4px;
+}
+.nav-box6{
+    height: 40px;
+}
+.shop{
+    
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+
+}
+.img1{
+    margin-top: 10px;
+    background-color: white;
+    height: 100px;
+    width: 8%;
+    padding: 20px 10px 15px;
+    font-weight: 600;
+}
+.box-img{
+    height: 90px;
+}
+/* .hero{
+    height: 250px;
+    display: flex;
+}
+.hero1{
+    width: 1200px;
+    height: 250px;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+.slide{
+position: absolute;
+transform: 1s;
+width: 100%;
+height: 100%;
+}
+.pre{
+    height: 250px;
+    width: 50px;
+    font-size: 30px;
+    border : none;
+}
+.next{
+    height: 250px;
+    width: 50px;
+    font-size: 30px;
+    
+    border: none;
+} */
+.shop2{
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img2{
+    margin-top: 5px;
+    background-color: white;
+    height: 200px;
+    
+    width: 30%;
+    padding: 20px 10px 15px;
+    
+   }
+   .box-img2{
+    height: 200px;
+    background-size: cover;
+   }
+   .top{
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+.img3{
+    
+    background-color: white;
+    height: 200px;
+    
+    width: 30%;
+    padding: 10px 10px 10px;
+    
+   }
+   .box-img3{
+    height: 200px;
+    
+    background-size: cover;
+   }
+   .img4{
+height: 200px;
+background-size: cover;
+   }
+   
